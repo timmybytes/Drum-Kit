@@ -1,5 +1,5 @@
 {
-  "name": "Drum-Kit",
+  "name": "drum-kit",
   "version": "1.0.0",
   "description": "An interactive drum kit page using JavaScript event listeners on capture keyboard clicks to play audio files.",
   "main": "index.js",
