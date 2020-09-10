@@ -1,0 +1,23 @@
+{
+  "name": "Drum-Kit",
+  "version": "1.0.0",
+  "description": "An interactive drum kit page using JavaScript event listeners on capture keyboard clicks to play audio files.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmybytes/Drum-Kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timmybytes/Drum-Kit/issues"
+  },
+  "homepage": "https://timmybytes.github.io/Drum-Kit",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
